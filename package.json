@@ -10,17 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zennn08/express-uploader.git"
+    "url": "git+https://github.com/veanyxz/vean-uploader.git"
   },
   "keywords": [
     "express-uploader"
   ],
-  "author": "aqulzz",
+  "author": "vean",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zennn08/express-uploader/issues"
+    "url": "https://github.com/veanyxz/vean-uploader/issues"
   },
-  "homepage": "https://github.com/zennn08/express-uploader#readme",
+  "homepage": "https://github.com/veanyxz/vean-uploader#readme",
   "dependencies": {
     "axios": "^0.21.4",
     "cheerio": "^1.0.0-rc.10",
