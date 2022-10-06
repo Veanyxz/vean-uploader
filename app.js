@@ -69,7 +69,7 @@ app.post('/upload', upload.single('file'), (req, res) => {
             encoding: req.file.encoding,
             mimetype: req.file.mimetype,
             size: req.file.size,
-            url: "https://" + req.hostname + "/file/" + req.file.filename
+            url: "https://" + req.hostname + "/file/" + "vean" + req.file.filename
         }
     })
 }, (error, req, res, next) => {
@@ -90,7 +90,7 @@ app.post('/multi-upload', upload.array('files', 10), (req, res) => {
             encoding: v.encoding,
             mimetype: v.mimetype,
             size: v.size,
-            url: "https://" + req.hostname + "/file/" + v.filename
+            url: "https://" + req.hostname + "/file/" + "vean" + v.filename
         })
     });
     res.status(200).json({
