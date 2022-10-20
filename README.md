@@ -7,12 +7,6 @@
 <p align="center">
 <a href="https://github.com/veanyxz"><img title="Author" src="https://img.shields.io/badge/Author-veanyxz-red.svg?style=for-the-badge&logo=github"></a>
 </p>
-<p align="center">
-<a href="https://github.com/veanyxz/followers"><img title="Followers" src="https://img.shields.io/github/followers/veanyxz?color=blue&style=flat-square"></a>
-<a href="https://github.com/veanyxz/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zennn08/vean-uploader?color=red&style=flat-square"></a>
-<a href="https://github.com/veanyxz/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zennn08/vean-uploader?color=red&style=flat-square"></a>
-<a href="https://github.com/veanyxz/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zennn08/vean-uploader?label=Watchers&color=blue&style=flat-square"></a>
-</p>
 
 ---
 
